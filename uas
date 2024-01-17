@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Arisandi pratama - CV</title>
+  <title>Rizqon Akmal Huda - CV</title>
   <!-- Add Bootstrap CSS link -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
@@ -12,7 +12,8 @@
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
-        <h1>Arisandi pratama</h1>
+        <h1>Rizqon Akmal Huda</h1>
+        <img src="
         <p>Web Developer</p>
       </div>
     </div>
@@ -28,8 +29,8 @@
     <div class="row mt-3">
       <div class="col-md-8">
         <h2>Experience</h2>
-        <p><strong>PT. Link Gacor </strong> - Web Developer</p>
-        <p><em>Start Date: maret - end date : Desember</em></p>
+        <p><strong>PT. Makmur </strong> - Web Developer</p>
+        <p><em>Start Date: mei - end date : Desember</em></p>
         <ul>
           <li>Developed and maintained web applications using HTML, CSS, and JavaScript.</li>
           <li>Collaborated with cross-functional teams to achieve project goals.</li>
@@ -41,7 +42,7 @@
       <div class="col-md-8">
         <h2>Skills</h2>
         <ul>
-          <li>HTML</li>
+          <li>ECL</li>
           <li>CSS</li>
           <li>JavaScript</li>
           <li>Bootstrap</li>
