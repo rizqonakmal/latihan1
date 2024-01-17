@@ -39,7 +39,7 @@
             <p>Web Developer</p>
         </header>
 
-        <img class="profile-picture" src="path/to/your/photo.jpg" alt="Your Name">
+        <img class="profile-picture" src="foto.jpg" alt="Your Name">
 
         <section>
             <h2>Contact Information</h2>
